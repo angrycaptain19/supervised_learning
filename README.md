@@ -2,6 +2,7 @@
 Supervised Learning
 
 Clone this repo in a folder such as 'sl_env'
+
 Create environment for this folder 
 https://docs.python.org/3/tutorial/venv.html
 
